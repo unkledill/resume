@@ -1,16 +1,17 @@
-# resume
+# Resume - Mobile CV Application (HNGx Task 2)
 
-A new Flutter project.
+## Features
 
-## Getting Started
+- Multi-screen application
+- Simple UI showcasing pre-filled CV details
+- Ability to modify the existing CV data with form validation & real-time updates on save
 
-This project is a starting point for a Flutter application.
+## Demo: [Appetize Demo](https://appetize.io/app/mrbcdpwnquiw7z7zjupv2y2jhi?device=pixel4&osVersion=11.0&scale=75)
 
-A few resources to get you started if this is your first Flutter project:
+View on desktop for best performance
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Packages Used
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+None
+
+
